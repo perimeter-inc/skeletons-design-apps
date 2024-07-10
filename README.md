@@ -1,6 +1,6 @@
 # Skeletons
 
-A Flutter package for building custom skeleton widgets to mimic the page's layout while loading.
+A Flutter package for building custom skeleton widgets to mimic the page's layout while loading. This is a fork project with support Flutter 3.2.1 version
 
 ## Examples
 
